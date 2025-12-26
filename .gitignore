@@ -1,0 +1,93 @@
+# ===============================
+# Environment / Secrets
+# ===============================
+keys.env
+.env
+.env.*
+*.key
+
+# ===============================
+# Python Cache & Artifacts
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# ===============================
+# Virtual Environments
+# ===============================
+venv/
+env/
+.venv/
+ENV/
+.python-version
+
+# ===============================
+# Jupyter Notebook Artifacts
+# ===============================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ===============================
+# Data & Model Artifacts
+# ===============================
+data/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.zip
+
+# ===============================
+# ML / Experiment Outputs
+# ===============================
+mlruns/
+wandb/
+lightning_logs/
+tensorboard/
+runs/
+
+# ===============================
+# Streamlit
+# ===============================
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# ===============================
+# OS / Editor Noise
+# ===============================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# ===============================
+# Logs
+# ===============================
+*.log
+logs/
+
+# ===============================
+# Build / Distribution
+# ===============================
+build/
+dist/
+
+# ===============================
+# Local App Entry Point
+# ===============================
+app.py
+
+# ===============================
+# Dev Containers (VS Code / Docker) & Old Script
+# ===============================
+.devcontainer/
+.old/
