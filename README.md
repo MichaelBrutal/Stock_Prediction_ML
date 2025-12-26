@@ -144,7 +144,7 @@ Stock_Prediction_ML/
    ```
 5. Launch the application:
    ```bash
-   streamlit run app.py
+   streamlit run app_new_structure.py
    ```
 
 The `keys.env` file is excluded from version control.
@@ -163,12 +163,4 @@ The `keys.env` file is excluded from version control.
 
 This project is for **educational and analytical purposes only** and does **not** constitute financial or investment advice.
 
----
-
-## Contact
-
-For questions or discussion:
-
-**Sam Ginzburg**  
-📧 samginzee@gmail.com
 
